@@ -1,0 +1,205 @@
+{
+	"data": [
+		{
+			"base": {
+				"id": 1,
+				"name": "我是策略-001",
+				"childTab": [
+					{
+					"name": "edit",
+					"active": true
+					},
+
+					{
+					"name": "info",
+					"active": false,
+					"isDisabled": true
+					},
+
+					{
+					"name": "backtest-list",
+					"active": false
+					}
+				]
+			},
+
+			"bactestList": [
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				}
+			],
+
+			"edit": {
+			  "code": "python code 1",
+			  "editCounter": 108
+			},
+
+			"info": {
+			  "startDate": "2019-02-01",
+			  "endDate": "2019-02-03",
+			  "infoScroll": 0
+			}
+		},
+
+		{
+			"base": {
+				"id": 2,
+				"name": "我是策略-001",
+				"childTab": [
+					{
+					"name": "edit",
+					"active": true
+					},
+
+					{
+					"name": "info",
+					"active": false,
+					"isDisabled": true
+					},
+
+					{
+					"name": "backtest-list",
+					"active": false
+					}
+				]
+			},
+
+			"bactestList": [
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				}
+			],
+
+			"edit": {
+			  "code": "python code 2",
+			  "editCounter": 203
+			},
+
+			"info": {
+			  "startDate": "2019-02-01",
+			  "endDate": "2019-02-03",
+			  "infoScroll": 0
+			}
+		},
+
+		{
+			"base": {
+				"id": 3,
+				"name": "我是策略-001",
+				"childTab": [
+					{
+					"name": "edit",
+					"active": true
+					},
+
+					{
+					"name": "info",
+					"active": false,
+					"isDisabled": true
+					},
+
+					{
+					"name": "backtest-list",
+					"active": false
+					}
+				]
+			},
+
+			"bactestList": [
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				},
+
+				{
+					"backtestId": 1,
+					"name": "我是一个普通的回测",
+					"createDate": "2019-02-12"
+				}
+			],
+
+			"edit": {
+			  "code": "python code 3",
+			  "editCounter": 86
+			},
+
+			"info": {
+			  "startDate": "2019-02-01",
+			  "endDate": "2019-02-03",
+			  "infoScroll": 0
+			}
+		}
+	]
+}
+  

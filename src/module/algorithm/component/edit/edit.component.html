@@ -1,0 +1,11 @@
+<div>策略基本信息</div>
+<div>策略id => {{ algorithm$.id }} </div>
+<div>name => {{ algorithm$.name }} </div>
+<div>childTab => {{ algorithm$.childTab }} </div>
+
+<h2> Edit Component </h2>
+<div>策略代码 => {{ algorithm$.code }}</div>
+<div *ngIf="algorithmCounter$" >
+    <div>id => {{ algorithmCounter$.id }}</div>
+    <div>counter => {{ algorithmCounter$.editCounter }}</div>
+</div>
