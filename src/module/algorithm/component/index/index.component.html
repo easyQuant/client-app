@@ -1,0 +1,12 @@
+<div>
+    <h3>Algorithm Component</h3>
+    <div 
+        *ngFor="let item of tabs$ | async;let index = index;"
+        class="item"
+        [ngClass]="{ 'active': item.active }"
+        (click)="handleActiveTab(index, item)"
+    >
+        {{ item.name }}
+    </div>
+    <router-outlet></router-outlet>
+</div>

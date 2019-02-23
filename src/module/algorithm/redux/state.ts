@@ -1,11 +1,5 @@
 export const algorithmState = {
-  tabs: [
-    {
-      "id": 1,
-      "name": "标签-01",
-      "code": "python code"
-    }
-  ],
+  tabs: [],
 
   algorithm: {
     base: {

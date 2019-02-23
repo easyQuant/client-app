@@ -106,7 +106,7 @@ export const selectedAlgorithmCounterList = createSelector(
     (algorithmBase: AlgorithmBase, algorithmCounterList: AlgorithmCounter[]) => {
 
         if (algorithmBase && algorithmCounterList) {
-            debugger
+            
             return algorithmCounterList.filter(item => item.id === algorithmBase.id)[0] || algorithmCounterList[0]
         } else {
             return algorithmCounterList[0]

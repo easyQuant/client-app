@@ -28,7 +28,7 @@ export class AlgorithmEditComponent implements OnInit {
 
       this.store.pipe(select(selectedAlgorithmCounterList))
       .subscribe(result => {
-        debugger
+        
         this.algorithmCounter$ = result
       })
 

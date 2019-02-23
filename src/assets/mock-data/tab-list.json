@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "name": "编辑策略-01",
+            "type": "edit",
+            "algorithmId": 1,
+            "backtestId": -1,
+            "active": true
+        },
+
+        {
+            "name": "编辑策略-02",
+            "type": "edit",
+            "algorithmId": 2,
+            "backtestId": -1,
+            "active": false
+        },
+
+        {
+            "name": "回测详情",
+            "type": "info",
+            "algorithmId": 3,
+            "backtestId": 1,
+            "active": false
+        }
+    ]
+}
